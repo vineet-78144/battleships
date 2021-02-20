@@ -1,0 +1,15 @@
+Player 1
+_	_	
+X	X	
+
+
+Player 2
+_	B	
+O	X	
+
+
+P1: 2
+
+P2: 1
+
+Player 1 wins

@@ -1,0 +1,15 @@
+package com.games.battleship.util;
+
+import com.games.battleship.domain.GridPoint;
+
+public class ShipAbsent implements GridPointState {
+
+	public void next(GridPoint gridPoint) 
+	{
+		gridPoint.setState(new MissedState());
+	}
+	
+	public String toString() {
+		return "_";
+	}
+}
