@@ -1,4 +1,3 @@
-Battleship 
 Battleship is a game played between 2 players. Each player will be initialised with an M * M grid with ’S’ number of ships placed at specified positions on the grid. 
 One battleship occupies a single position on the grid. 
 It takes a single shot to bring down the battleship of an opponent. 
