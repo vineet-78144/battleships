@@ -16,4 +16,10 @@ This will be a simulation of an actual battle wherein each player is given â€˜Tâ
 Based on hits/ misses of a missile on the opponent, either of the players might be victorious or the game might end as a draw 
 
 
+To Play the game:
+
+mvn exec:java -Dexec.args="input.txt"
+
+
+
 
